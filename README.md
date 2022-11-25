@@ -1,3 +1,3 @@
 # InteractivePortfolioPage
 
-![alt text](https://github.com/ErikOnd/Day3Homework/blob/main/screenshot.png?raw=true)
+![alt text](https://github.com/ErikOnd/InteractivePortfolioPage/blob/master/screenshot.png?raw=true)
