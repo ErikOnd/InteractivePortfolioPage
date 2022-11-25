@@ -1,0 +1,163 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.mainContent {
+    padding-left: 60px;
+}
+
+
+.education {
+    overflow: hidden;
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 60px;
+    background-image: url(https://img.freepik.com/premium-vector/online-education-staff-training-specialization-learning-support_126283-1312.jpg);
+    background-size: cover;
+    box-shadow: 15px 17px 22px 2px rgba(0, 0, 0, 0.29)
+}
+
+.education:hover {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 1)), to(rgba(0, 0, 0, 0)));
+}
+
+.education:hover .pill {
+    transform: translateY(200px);
+    transition: transform 1000ms;
+}
+
+.education:hover .educationText {
+    transform: translateX(-550px);
+    transition: transform 1000ms;
+}
+
+
+.educationText {
+    width: 600px;
+    height: 400px;
+    padding-top: 60px;
+    padding-left: 600px;
+    font-size: large;
+    border-radius: 10px;
+    bottom: 500px;
+
+}
+
+.educationText span {
+    margin-right: 20px;
+    font-weight: 700;
+}
+
+
+
+.education .pill {
+    width: 300px;
+    height: 60px;
+    background-color: rgb(255, 238, 0, 0.75);
+    margin-top: -149px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
+.education .pill h1 {
+    position: relative;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-left: 13px;
+}
+
+.work {
+    overflow: hidden;
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 60px;
+    background-image: url(https://img.freepik.com/free-vector/communication-flat-icon_1262-18771.jpg?t=st=1669368298~exp=1669368898~hmac=aff40d18015a2ad97dfc53eb09d104278dac7b482cb58f1bab40656a44e0da6e);
+    background-size: cover;
+    box-shadow: 15px 17px 22px 2px rgba(0, 0, 0, 0.29)
+}
+
+.work .pill {
+    width: 300px;
+    height: 60px;
+    background-color: rgb(255, 238, 0, 0.75);
+    margin-top: 330px;
+    margin-left: 135px;
+    border-radius: 10px;
+}
+
+.work .pill h1 {
+    position: relative;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-left: 13px;
+
+}
+
+.aboutMe {
+    overflow: hidden;
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 60px;
+    background-image: url(https://img.freepik.com/free-vector/business-idea-generation-plan-development-pensive-man-with-lightbulb-cartoon-character-technical-mindset-entrepreneurial-mind-brainstorming-process_335657-2104.jpg?w=826&t=st=1669370577~exp=1669371177~hmac=da16e99d0e9051aa670cf7b7add946a6140d2d928c56a3e499e7cdb8c32a86e3);
+    background-size: cover;
+    background-position: 0% 25%;
+    box-shadow: 15px 17px 22px 2px rgba(0, 0, 0, 0.29)
+}
+
+.aboutMe .pill {
+    width: 300px;
+    height: 60px;
+    background-color: rgb(255, 238, 0, 0.75);
+    margin-top: 330px;
+    margin-left: 135px;
+    border-radius: 10px;
+}
+
+.aboutMe .pill h1 {
+    position: relative;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-left: 76px;
+
+}
+
+.myWork {
+    overflow: hidden;
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 60px;
+    background-image: url(https://img.freepik.com/premium-vector/student-study-from-home-through-online-laptop-computer_33800-843.jpg?w=1480);
+    background-size: cover;
+    background-position: 85%;
+    box-shadow: 15px 17px 22px 2px rgba(0, 0, 0, 0.29)
+}
+
+.myWork .pill {
+    width: 300px;
+    height: 60px;
+    background-color: rgb(255, 238, 0, 0.75);
+    margin-top: 330px;
+    margin-left: 135px;
+    border-radius: 10px;
+}
+
+.myWork .pill h1 {
+    position: relative;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-left: 90px;
+
+}
